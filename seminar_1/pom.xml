@@ -8,6 +8,11 @@
     <artifactId>seminar_1</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <properties>
+        <maven.compiler.source>20</maven.compiler.source>
+        <maven.compiler.target>20</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
     <dependencies>
         <!-- https://mvnrepository.com/artifact/org.projectlombok/lombok -->
         <dependency>
@@ -16,5 +21,7 @@
             <version>1.18.24</version>
             <scope>provided</scope>
         </dependency>
+
     </dependencies>
+
 </project>
