@@ -2,19 +2,11 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
-      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="seminar_2" />
-        <module name="seminar_3" />
-        <module name="seminar_4" />
-        <module name="seminar_5" />
-        <module name="seminar_1" />
         <module name="seminar_6" />
-        <module name="seminar_7" />
-        <module name="certification" />
       </profile>
     </annotationProcessing>
   </component>
